@@ -1,1 +1,1 @@
-# snake
+# SNAKE GAME
